@@ -13,7 +13,7 @@ Register client ID and connect to server:
 
 ![register](https://user-images.githubusercontent.com/69106891/102668210-9678bd00-41a0-11eb-88cd-b72bf519ee19.jpg)
 
-A page was created for the customer:
+A page was created for the client:
 
 ![chat](https://user-images.githubusercontent.com/69106891/102668313-d8096800-41a0-11eb-928c-0fcce6923555.png)
 
