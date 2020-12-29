@@ -1,6 +1,6 @@
-**An environment for chatting between multiple clients using the TCP protocol.** 
+**An environment to chat between multiple clients using the TCP protocol.** 
 
-- Possibility of group chat.
+- possible of group chat.
 
 - Possibility to send a message to the channel by admin
 
